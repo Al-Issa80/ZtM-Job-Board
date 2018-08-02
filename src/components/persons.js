@@ -4973,3 +4973,19 @@ export const persons = [
   },
 ];
 
+{
+    id: 162,
+    name: "Steven Al-Issa",
+    img: "",
+    links: {
+      website: "",
+      linkedin: "https://www.linkedin.com/in/steven-al-issa-5799112a/",
+      github: "https://github.com/Al-Issa80"
+    },
+    jobTitle: "Front-End Developer",
+    location: {
+      city: "London",
+      state: "",
+      country: "UK"
+    }
+  },
